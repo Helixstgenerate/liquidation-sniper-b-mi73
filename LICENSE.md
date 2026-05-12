@@ -1,4 +1,4 @@
-# 
+# automatic liquidation sniper bot Module | cross-margin + market-making offers the most advanced liquidation sniper bot, with cross-margin and market-making. Ideal for professional
 
 
 
